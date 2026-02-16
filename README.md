@@ -53,25 +53,6 @@ This is a single-page website designed with a beginner-friendly approach to Tail
 
 No build tools or dependencies required! Just a modern web browser.
 
-### Installation
-
-1. Clone this repository:
-```bash
-git clone https://github.com/yourusername/loggia-crew-website.git
-```
-
-2. Navigate to the project directory:
-```bash
-cd loggia-crew-website
-```
-
-3. Open the HTML file in your browser:
-```bash
-open loggia-crew-website.html
-```
-
-Or simply drag and drop the `loggia-crew-website.html` file into your browser.
-
 ## Customization
 
 ### Changing Colors
